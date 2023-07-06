@@ -87,5 +87,13 @@ li span {
 }
 
 .font-weight-bold {
-  font-weight: 650!important;
+  font-weight: 650 !important;
+}
+
+
+.idphoto {
+  width: 63%; /* Set the width to 100% of the parent container */
+  height: auto; /* Automatically adjust the height to maintain the aspect ratio */
+  /*border: 1px solid black; */
+  border-radius:50%!important;
 }
